@@ -5,11 +5,11 @@ Learn how to write a code for finetune BERT for **Text Classification Task**.<br
 
 ---
 ## Overview of BERT
-![image](data\BERT_classifier.png)
+<img src='./data/BERT_classifier.png' width=80%>
 
 ----
 ## How BERT Tokenizer work
-![imge](data\sum_up.png)
+<img src='./data/sum_up.png' width=80%>
 
 ----
 ## Requirements
